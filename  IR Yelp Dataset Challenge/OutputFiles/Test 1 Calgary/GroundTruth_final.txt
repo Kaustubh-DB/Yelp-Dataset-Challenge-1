@@ -1,0 +1,126 @@
+Specialty Food : [ARH8diyhBtiSgRR4_7oxmg]
+
+Tapas/Small Plates : [ARH8diyhBtiSgRR4_7oxmg]
+
+Burgers : [buy2XTy4Bm7PygYrMhFq6g, EwGXv_d6zAgkVPuXRI2A8A, 3kTYTShnktE7azjItVlZJQ]
+
+Seafood : [XSZgcEMWM4XcuE-sWXny9w]
+
+Cafes : [B9Qt4Eyk3lpz2LEtGU205g]
+
+Arts & Entertainment : []
+
+Nightlife : [6qmCO3di-FKWLdRn2LuF6g, 3n6Ki1m1Qwy3KK3asRPgHQ, YpoIDLyRGhgciExGAHRQcw, ri2GZt8qyFcWUHxoQfsZXg, NaGdsSVvAKERyJ_BQYgXrQ, B9Qt4Eyk3lpz2LEtGU205g]
+
+Pubs : [6qmCO3di-FKWLdRn2LuF6g]
+
+Gluten-Free : []
+
+Modern European : []
+
+Ramen : []
+
+Hot Dogs : [3kTYTShnktE7azjItVlZJQ, CfjExSZFfmOM3BYGzd120g]
+
+Sushi Bars : [-EcgPVJpwOYJGjkg4YRBhw, YlH13A5DQcnWbzmxvQ7dvw]
+
+Cajun/Creole : []
+
+Music Venues : []
+
+Buffets : [Ihcf2POxqoxIodtc8dAGxQ]
+
+Malaysian : []
+
+American (New) : [NaGdsSVvAKERyJ_BQYgXrQ, B9Qt4Eyk3lpz2LEtGU205g, Qtu-zIwz4TDUu1U7oxCgHg]
+
+American (Traditional) : [ARH8diyhBtiSgRR4_7oxmg]
+
+Breakfast & Brunch : [EwGXv_d6zAgkVPuXRI2A8A, ursDrWED3OpHKZXTDE1FPg, fSFbPfq35Kn5SOIc87OXSA, ARH8diyhBtiSgRR4_7oxmg, 7DjrTaEIa-7x3o-Trp2Htw]
+
+Vegetarian : []
+
+Local Flavor : []
+
+Whiskey Bars : []
+
+Pakistani : []
+
+Japanese : [-EcgPVJpwOYJGjkg4YRBhw, YlH13A5DQcnWbzmxvQ7dvw]
+
+Brasseries : []
+
+Wine Bars : []
+
+Ethnic Food : []
+
+Canadian (New) : [NaGdsSVvAKERyJ_BQYgXrQ, B9Qt4Eyk3lpz2LEtGU205g, Qtu-zIwz4TDUu1U7oxCgHg, XSZgcEMWM4XcuE-sWXny9w]
+
+Bakeries : [ursDrWED3OpHKZXTDE1FPg]
+
+Wine & Spirits : []
+
+Sandwiches : [EwGXv_d6zAgkVPuXRI2A8A, ursDrWED3OpHKZXTDE1FPg]
+
+Breweries : []
+
+Lounges : []
+
+Grocery : []
+
+Donairs : []
+
+Italian : [3n6Ki1m1Qwy3KK3asRPgHQ]
+
+Comfort Food : []
+
+Steakhouses : [kmOeRAvOL1oR6Z-4Ggdx6w, XSZgcEMWM4XcuE-sWXny9w]
+
+Himalayan/Nepalese : []
+
+German : []
+
+Desserts : [ARH8diyhBtiSgRR4_7oxmg]
+
+Beer : []
+
+Venues & Event Spaces : []
+
+French : []
+
+Event Planning & Services : [ursDrWED3OpHKZXTDE1FPg]
+
+Diners : [fSFbPfq35Kn5SOIc87OXSA, ARH8diyhBtiSgRR4_7oxmg, 7DjrTaEIa-7x3o-Trp2Htw]
+
+Cocktail Bars : [3n6Ki1m1Qwy3KK3asRPgHQ, YpoIDLyRGhgciExGAHRQcw, B9Qt4Eyk3lpz2LEtGU205g]
+
+Scandinavian : []
+
+Convenience Stores : []
+
+Salad : []
+
+Food : [ursDrWED3OpHKZXTDE1FPg, ARH8diyhBtiSgRR4_7oxmg, Qtu-zIwz4TDUu1U7oxCgHg]
+
+Coffee & Tea : []
+
+Mexican : [YpoIDLyRGhgciExGAHRQcw, lZ8T7NFAo1JGAAopTV_OTQ]
+
+Fast Food : []
+
+Barbeque : [fSFbPfq35Kn5SOIc87OXSA]
+
+Restaurants : [6qmCO3di-FKWLdRn2LuF6g, buy2XTy4Bm7PygYrMhFq6g, EwGXv_d6zAgkVPuXRI2A8A, ursDrWED3OpHKZXTDE1FPg, kmOeRAvOL1oR6Z-4Ggdx6w, 3kTYTShnktE7azjItVlZJQ, DqSTQWhRU3WKdIN2b_Nzog, Ihcf2POxqoxIodtc8dAGxQ, 3n6Ki1m1Qwy3KK3asRPgHQ, -EcgPVJpwOYJGjkg4YRBhw, fSFbPfq35Kn5SOIc87OXSA, ARH8diyhBtiSgRR4_7oxmg, YpoIDLyRGhgciExGAHRQcw, YlH13A5DQcnWbzmxvQ7dvw, 7DjrTaEIa-7x3o-Trp2Htw, ri2GZt8qyFcWUHxoQfsZXg, SqkXv3eDtOrkeg-WgXFKdg, CfjExSZFfmOM3BYGzd120g, NaGdsSVvAKERyJ_BQYgXrQ, B9Qt4Eyk3lpz2LEtGU205g, Qtu-zIwz4TDUu1U7oxCgHg, XSZgcEMWM4XcuE-sWXny9w, lZ8T7NFAo1JGAAopTV_OTQ]
+
+Pizza : [3n6Ki1m1Qwy3KK3asRPgHQ, ri2GZt8qyFcWUHxoQfsZXg]
+
+Mediterranean : []
+
+Gastropubs : []
+
+Indian : []
+
+Vietnamese : []
+
+Bars : [6qmCO3di-FKWLdRn2LuF6g, 3n6Ki1m1Qwy3KK3asRPgHQ, YpoIDLyRGhgciExGAHRQcw, ri2GZt8qyFcWUHxoQfsZXg, NaGdsSVvAKERyJ_BQYgXrQ, B9Qt4Eyk3lpz2LEtGU205g]
+

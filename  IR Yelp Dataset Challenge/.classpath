@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/boon-0.33.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/mongo-java-driver-3.11.2.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/stanford-corenlp-3.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/gson-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-analyzers-common-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-benchmark-8.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-core-6.2.0.jar" sourcepath="/Users/suyashporedi/.m2/repository/org/apache/lucene/lucene-core/6.2.0/lucene-core-6.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-queries-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/lucene-queryparser-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/mahout-math-0.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/commons-math3-3.6.1 (1).jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/mahout-hdfs-0.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/mahout-integration-0.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/suyashporedi/Downloads/mahout-mr-0.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

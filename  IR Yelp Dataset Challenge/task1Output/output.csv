@@ -1,0 +1,5 @@
+User : 3iaQRn8gPiuarpYmv9dOJA,Top 10 (Precision),Top 10 (Recall),Top 25 (Precision),Top 25 (Recall),Top 50 (Precision),Top 50(Recall)
+Query noun + adj,0.4,0.285714286,0.2,0.357142857,0.16,0.091
+Query noun ,0.24,0.16,0.1342,0.2124,0.128342,0.145
+Query (Adjectives),0.157,0.1163,0.0935,0.15279,0.078,0.0684
+,,,,,,
