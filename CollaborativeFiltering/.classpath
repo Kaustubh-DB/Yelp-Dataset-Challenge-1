@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/mongo-java-driver-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/mahout-mr-0.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/mahout-math-0.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/mahout-integration-0.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/mahout-hdfs-0.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/stanford-postagger-full-2018-10-16/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Search/Assignment2/Jar&apos;s/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Search/Assignment2/Jar&apos;s/lucene-analyzers-common-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Search/Assignment2/Jar&apos;s/lucene-core-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Search/Assignment2/Jar&apos;s/lucene-queries-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Search/Assignment2/Jar&apos;s/lucene-queryparser-6.2.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kaust/Downloads/guava-28.0-jre.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
